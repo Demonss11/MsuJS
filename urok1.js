@@ -1,5 +1,5 @@
 function twoToTen(sTwo){
-    let l = sTwo.lenght - 1;
+    let l = sTwo.length - 1;
     nInt = 0;
     for(i=0;i<=l;i++){
         if(sTwo[i] == '1'){
