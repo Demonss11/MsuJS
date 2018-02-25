@@ -5,7 +5,7 @@ function twoToTen(sTwo){
         if(sTwo[i] == '1'){
             nInt = nInt + Math.pow(2,l-i);
         } else if(sTwo[i] == '0'){
-            //'nothing'
+            //'nothing '
         }else{
             return;
         }
